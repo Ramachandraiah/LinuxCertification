@@ -1,0 +1,17 @@
+################################################################
+#@Title : Configuring Your Shell                               #
+#@Author : Ramachandraiah Nikadi                               #
+#@Date : 2/4/2016                                              #
+#@Description : Info about files to configure the shell        #
+################################################################
+
+/etc/profile
+-------------
+	- This sets up user environment information for every user.
+	- It is executed when you first login.
+	- It call the files
+		/etc/bash.bashrc
+		/etc/profile.d/*.sh
+
+		
+
